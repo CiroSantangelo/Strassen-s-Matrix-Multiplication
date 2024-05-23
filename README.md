@@ -47,7 +47,7 @@ The `strassen` function implements the Strassen matrix multiplication algorithm.
 
 6. **Assembling the Final Matrix**:
    - These submatrices (`C11`, `C12`, `C21`, `C22`) are then combined to form the final result matrix `C` using `np.vstack` and `np.hstack`.
-  
-   **License**
+
+# License
    - This README provides a comprehensive guide for users to understand, set up, and run your Strassen matrix multiplication implementation.
 
